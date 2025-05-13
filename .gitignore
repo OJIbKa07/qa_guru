@@ -1,0 +1,11 @@
+build/
+/.gradle
+/.idea
+!**/sarc/main/**
+!**src/test/**
+
+*.iws
+*.iml
+*.ipr
+*.log
+!build.gradle.kts
